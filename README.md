@@ -1,2 +1,2 @@
 # OasisInfobyte
-Internship projects
+Task 1 of ATM machine interface
